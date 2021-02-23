@@ -5,3 +5,7 @@
 .App-logo {
   pointer-events: none;
 }
+
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+}
