@@ -1,11 +1,4 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  pointer-events: none;
-}
-
 body {
-  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Open Sans Condensed";
+  padding: 20px 60px;
 }
